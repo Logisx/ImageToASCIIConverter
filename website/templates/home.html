@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+
+{% block content %}
+<br>
+<h1 align="center">Image to ASCII converter</h1>
+<br>
+<br>
+
+<form method="POST" enctype="multipart/form-data">
+    <div>
+    <input class="form-control  form-control-lg" type="file" name="image" accept="image/png, image/gif, image/jpeg">
+    </div>
+    <br>
+    <br>
+    <div align="center">
+        <button type="submit" class="btn btn-success btn-lg">Upload</button>
+        <a class="btn btn-primary btn-lg" href="{{url_for('views.download')}}">Download</a>
+    </div>
+</form>
+
+{% endblock %}
