@@ -1,6 +1,6 @@
 # ImageToASCIIConverter
-Website allows to convert images to a txt document that is containing ASCII symbols and in low scale represent the same image.
-Made with the use of Flask framework
+<p>Website allows to convert images to a txt document that is containing ASCII symbols and in low scale represent the same image.</p>
+<p>Made with the use of Flask framework</p>
 
 ![Website](website.jpg)
 <p align='center'>
