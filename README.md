@@ -3,7 +3,6 @@ Website allows to convert images to a txt document that is containing ASCII symb
 
 ![Website](website.jpg)
 <p align='center'>
-  <img src='image.jpg' width='300'>
-  <img src='symbols.jpg' width='300'
-  <img src='converted_screenshot.jpg' width='300'>
+  <img src='image.jpg' width='450'>
+  <img src='converted_screenshot.jpg' width='450'>
   </p>
